@@ -41,6 +41,7 @@ To delete an event, click the "Delete" button on the event details page and conf
 
 
 Technologies Used
+
 React
 Chakra UI
 React Router
