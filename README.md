@@ -24,6 +24,11 @@ Install dependencies:
 
 $ npm install
 
+Install Chakra UI, React Router, react-select, Axios
+
+$ npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+$ npm install -g react-router-dom react-select axios
+
 Running the Application
 Once the installation is complete, you can run the application using the following command:
 
